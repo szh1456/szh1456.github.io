@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qijia Shao"
+title                    : "Qijia Shao's Homepage"
 title_separator          : "-"
 name                     : &name "Qijia Shao"
 description              : &description "Ph.D. student in Computer Science"
