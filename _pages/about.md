@@ -15,7 +15,10 @@ redirect_from:
                                                                                                                                                                                                                     
 My research interests lie in  Ubiquitous Systems, Mobile Computing and Human Computer Interaction. Recently, I am focusing on fabric sensing and general motion teaching.
 
+
 News
 ======
-
+* [Dec., 2019] One paper got accepted by **[Hotmobile 2020](http://www.hotmobile.org/2020/)**.
+* [Dec., 2019] One paper got accepted by **[CHI 2020](https://chi2020.acm.org/)**.
+* [Sep., 2019] I presented our fabric paper on **[Ubicomp 2019](http://ubicomp.org/ubicomp2019/)** in London.
 
