@@ -7,7 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+* Welcome, my name is Qijia Shao,  currently a second-year Ph.D. student in the [Computer Science Department](https://web.cs.dartmouth.edu/) at Dartmouth College. I am a member of the [DartNets](http://dartnets.cs.dartmouth.edu/) (Dartmouth Networking and Ubiquitous Systems) Lab and [RLab](https://rlab.cs.dartmouth.edu/home/) (Dartmouth Reality and Robotics Lab), under the supervision of [Professor Xia Zhou](https://home.cs.dartmouth.edu/~xia/) and [Professor Devin Balkcom](https://rlab.cs.dartmouth.edu/devin/) .
 
+* I received my bachelor's degree with honor from Yingcai Honors College at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) in 2018. In 2016, I was an exchange student at EECS department of [National Chiao Tung University](https://www.nctu.edu.tw/en).  I spent my senior year as a research assistant in [Missouri S&T](https://www.mst.edu/).
+
+* During my undergraduate study, I am lucky to have been working at National Key Laboratory of Science and Technology on Communication, advised by [Professor Jun Wang](https://scholar.google.com.hk/citations?user=bOK-froAAAAJ&hl=zh-CN) and at Center for Real-time Adaptive Signal Processing, advised by [Professor Y. Rosa Zheng](https://www.lehigh.edu/~yrz218/)
+                                                                                                                                                                                                                    
+My research interests lie in  Ubiquitous Computing, Mobile Computing and Human Computer Interaction. Recently, I am focusing on fabric sensing and general motion teaching.
 
 News
 ======
