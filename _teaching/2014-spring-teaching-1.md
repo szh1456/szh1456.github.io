@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate/Graduate course"
 # permalink: /teaching/2014-spring-teaching-1
 venue: "Dartmouth College, CS Department"
-date: Fall, 2018
+date: 2018-09-15
 # location: "City, Country"
 ---
 
