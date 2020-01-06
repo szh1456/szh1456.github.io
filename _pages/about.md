@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-* Welcome, my name is Qijia Shao,  currently a second-year Ph.D. student in the [Computer Science Department](https://web.cs.dartmouth.edu/) at [**Dartmouth College**](https://home.dartmouth.edu/). I am a member of the [DartNets](http://dartnets.cs.dartmouth.edu/) (Dartmouth Networking and Ubiquitous Systems) Lab and [RLab](https://rlab.cs.dartmouth.edu/home/) (Dartmouth Reality and Robotics Lab), under the supervision of [Professor Xia Zhou](https://home.cs.dartmouth.edu/~xia/) and [Professor Devin Balkcom](https://rlab.cs.dartmouth.edu/devin/).
+* Welcome, my name is Qijia Shao,  currently a second-year Ph.D. student in the [Computer Science Department](https://web.cs.dartmouth.edu/) at [**Dartmouth College**](https://home.dartmouth.edu/). I am a member of the [DartNets](http://dartnets.cs.dartmouth.edu/) (Dartmouth Networking and Ubiquitous Systems) Lab and [RLab](https://rlab.cs.dartmouth.edu/home/) (Dartmouth Reality and Robotics Lab), under the supervision of [**Professor Xia Zhou**](https://home.cs.dartmouth.edu/~xia/) and [**Professor Devin Balkcom**](https://rlab.cs.dartmouth.edu/devin/).
 
 * I received my bachelor's degree with honor from Yingcai Honors College at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) in 2018. In 2016, I was an exchange student at EECS department of [National Chiao Tung University](https://www.nctu.edu.tw/en).  I spent my senior year as a research assistant in [Missouri S&T](https://www.mst.edu/).
 
