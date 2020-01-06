@@ -22,3 +22,7 @@ News
 * [12/2019] One paper got accepted by **[CHI 2020](https://chi2020.acm.org/)**.
 * [09/2019] I presented our fabric paper on **[Ubicomp 2019](http://ubicomp.org/ubicomp2019/)** in London.
 
+Media Coverage
+======
+
+
