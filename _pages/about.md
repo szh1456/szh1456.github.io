@@ -20,6 +20,8 @@ News
 ======
 * [12/2019] One paper got accepted by **[HotMobile 2020](http://www.hotmobile.org/2020/)**.
 * [12/2019] One paper got accepted by **[CHI 2020](https://chi2020.acm.org/)**.
+* [11/2019] Submitted one paper to UbiComp 2020.
+* [10/2019] Submitted one paper to HotMobile 2020.
 * [09/2019] I presented our fabric paper on **[UbiComp 2019](http://ubicomp.org/ubicomp2019/)** in London.
 
 Media Coverage
