@@ -15,7 +15,7 @@ author_profile: true
 
 <b>[Reconstructing Human Joint Motion with Computational Fabrics](https://dl.acm.org/doi/10.1145/3314406)</b> <br>
  Ruibo Liu, <b>Qijia Shao</b>, Siqi Wang, Christina Ru, Devin Balkcom, Xia Zhou<br>
-<i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. 3, 1, Article 19 (March 2019)</i> (<b>UbiComp 2019</b>)
+<i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. 3, 1, Article 19</i> (<b>UbiComp 2019</b>)
 
 
 
