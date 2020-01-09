@@ -27,4 +27,6 @@ News
 Media Coverage
 ======
 
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=gkUgx_rJxyGnlm9h49vUyEn8lS4ZIy-1rPBbiEUZCKY&cl=ffffff&w=a"></script>
+
 
