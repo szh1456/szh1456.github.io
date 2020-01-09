@@ -16,7 +16,7 @@ redirect_from:
 My research interests lie in  Ubiquitous Systems, Mobile Computing and Human Computer Interaction. Recently, I am focusing on **wearable sensing** and **general motion teaching**.
 
 
-News
+Recent News
 ======
 * [12/2019] One paper got accepted by **[HotMobile 2020](http://www.hotmobile.org/2020/)**.
 * [12/2019] One paper got accepted by **[CHI 2020](https://chi2020.acm.org/)**.
