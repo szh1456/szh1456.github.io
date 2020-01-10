@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Qijia Shao(邵琪佳)"
+title: "Qijia Shao (邵琪佳)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Click to review my CV here](http://qijiashao.github.io/files/QijiaShao_CV.pdf)(Last update: 09/2019)
+[Click to review my CV here](http://qijiashao.github.io/files/QijiaShao_CV.pdf) (Last update: 09/2019)
