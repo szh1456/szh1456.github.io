@@ -24,8 +24,9 @@ Recent News
 * [10/2019] Submitted one paper to HotMobile 2020.
 * [09/2019] I presented our fabric paper on **[UbiComp 2019](http://ubicomp.org/ubicomp2019/)** in London.
 
-Media Coverage
+Selected Media Coverage
 ======
+* **[Science Daily]** [Off-the-shelf smart fabric helps athletic coaching and physical therapy](https://www.sciencedaily.com/releases/2019/04/190408124154.htm)
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=gkUgx_rJxyGnlm9h49vUyEn8lS4ZIy-1rPBbiEUZCKY&cl=ffffff&w=a"></script>
 
