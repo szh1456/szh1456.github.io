@@ -26,7 +26,8 @@ Recent News
 
 Selected Media Coverage
 ======
-* **[Science Daily]** [Off-the-shelf smart fabric helps athletic coaching and physical therapy](https://www.sciencedaily.com/releases/2019/04/190408124154.htm)
+* **[Fabrics Sesning]** [Science Daily](https://www.sciencedaily.com/releases/2019/04/190408124154.htm) [Wearable Technology](https://www.wearable-technologies.com/2019/04/smart-fabric-helps-athletes-and-physical-therapy-patients-reduce-injury-and-accelerate-recovery/)
+
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=gkUgx_rJxyGnlm9h49vUyEn8lS4ZIy-1rPBbiEUZCKY&cl=ffffff&w=a"></script>
 
