@@ -9,12 +9,3 @@ date: 2018-09-15
 ---
 
 Held office hours, graded and wrote solutions for assignments and exams, and explained the exams.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
