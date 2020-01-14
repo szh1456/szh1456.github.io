@@ -4,7 +4,6 @@ title: "Selected Media Coverage"
 permalink: /media/
 author_profile: true
 ---
-* **[Fabric Sensing]** [NSF ‘Awesome Discoveries’] []() [Wearable Technology](https://www.wearable-technologies.com/2019/04/smart-fabric-helps-athletes-and-physical-therapy-patients-reduce-injury-and-accelerate-recovery/) -->
 
 * **[NSF ‘Awesome Discoveries’]**[Joint-Monitoring Fabric Gets NSF ‘Awesome Discoveries’ Shout-Out](https://web.cs.dartmouth.edu/news-events/joint-monitoring-fabric-gets-nsf-awesome-discoveries-shout-out)
 
