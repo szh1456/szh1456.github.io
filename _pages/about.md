@@ -24,11 +24,10 @@ Recent News
 * [10/2019] Submitted one paper to HotMobile 2020.
 * [09/2019] I presented our fabric paper on **[UbiComp 2019](http://ubicomp.org/ubicomp2019/)** in London.
 
-<!-- Selected Media Coverage
-======
 
 
-Visitors
+
+#### :earth_americas: Notice Visitors
 =======
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=250&t=n&d=gkUgx_rJxyGnlm9h49vUyEn8lS4ZIy-1rPBbiEUZCKY&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 
