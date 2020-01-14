@@ -13,7 +13,7 @@ redirect_from:
 
 * During my undergraduate study, I am lucky to have been working at National Key Laboratory of Science and Technology on Communication, advised by [Professor Jun Wang](https://scholar.google.com.hk/citations?user=bOK-froAAAAJ&hl=zh-CN) and at Center for Real-time Adaptive Signal Processing, advised by [Professor Y. Rosa Zheng](https://www.lehigh.edu/~yrz218/)
                                                                                                                                                                                                                     
-My research interests lie in  Ubiquitous Systems, Mobile Computing and Human Computer Interaction. Recently, I am focusing on **wearable sensing** and **general motion teaching**.
+My research interests lie in  Ubiquitous Systems, Mobile Computing and Human Computer Interaction. Recently, I am focusing on **wearable sensing** and **general motion teaching**. 
 
 
 Recent News
