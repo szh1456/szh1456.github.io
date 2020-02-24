@@ -17,6 +17,7 @@ My research interests lie in  Ubiquitous Systems, Mobile Computing and Human Com
 
 Recent News
 ======
+* [02/2020] Received the ACM HotMobile 2020 Student Travel Award. See you at Austin!
 * [12/2019] One paper got accepted by **[HotMobile 2020](http://www.hotmobile.org/2020/)**.
 * [12/2019] One paper got accepted by **[CHI 2020](https://chi2020.acm.org/)**.
 * [11/2019] Submitted one paper to UbiComp 2020.
