@@ -17,6 +17,7 @@ My research interests lie in  Ubiquitous Systems, Mobile Computing and Human Com
 
 Recent News
 ======
+* [03/2020] Gave a demo and talk for PolarTag paper on **[HotMobile 2020](http://www.hotmobile.org/2020/)**. Thanks for everyone's attention and vote! We won the Best Demo Award!
 * [02/2020] Received the ACM HotMobile 2020 Student Travel Award. See you at Austin!
 * [12/2019] One paper got accepted by **[HotMobile 2020](http://www.hotmobile.org/2020/)**.
 * [12/2019] One paper got accepted by **[CHI 2020](https://chi2020.acm.org/)**.
