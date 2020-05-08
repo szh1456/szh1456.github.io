@@ -4,7 +4,7 @@ title: "Recent Publications"
 permalink: /publications/
 author_profile: true
 ---
-<img align="left" width="100" height="90" src="http://qijiashao.github.io/images/Threadsense.png">
+<img align="left" width="250" height="200" src="http://qijiashao.github.io/images/Threadsense.png">
 
 
 <b>ThreadSense: Locating Touch on an Extremely Thin Interactive Thread</b> <br>
