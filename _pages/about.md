@@ -11,7 +11,8 @@ redirect_from:
 
 * I received my bachelor's degree with highest honor from Yingcai Honors College at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) in 2018. In 2016, I was an exchange student at EECS department of [National Chiao Tung University](https://www.nctu.edu.tw/en).  I spent my senior year as a research assistant at [Missouri S&T](https://www.mst.edu/).
 
-* During my undergraduate study, I am lucky to have been working at National Key Laboratory of Science and Technology on Communication, advised by [Professor Jun Wang](https://scholar.google.com.hk/citations?user=bOK-froAAAAJ&hl=zh-CN) and at Center for Real-time Adaptive Signal Processing, advised by [Professor Y. Rosa Zheng](https://www.lehigh.edu/~yrz218/)
+<!-- * During my undergraduate study, I am lucky to have been working at National Key Laboratory of Science and Technology on Communication, advised by [Professor Jun Wang](https://scholar.google.com.hk/citations?user=bOK-froAAAAJ&hl=zh-CN) and at Center for Real-time Adaptive Signal Processing, advised by [Professor Y. Rosa Zheng](https://www.lehigh.edu/~yrz218/) -->
+* During my undergraduate study, I am lucky to have been working at Center for Real-time Adaptive Signal Processing, advised by [Professor Y. Rosa Zheng](https://www.lehigh.edu/~yrz218/)
                                                                                                                                                                                                                     
 My research interests lie in  Ubiquitous Systems, Mobile Computing and Human Computer Interaction. Recently, I am focusing on **wearable sensing** using soft electronics and fabrics. I am also leading a **general motion teaching** project, aiming at teaching motion with mobile systems.
 
