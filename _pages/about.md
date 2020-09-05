@@ -16,6 +16,8 @@ redirect_from:
                                                                                                                                                                                                                     
 My current research spans a range of different topics in Mobile Computing, Machine Learning and Human-Computer Interaction. Most of my research projects are problem-driven, aiming at solving interesting and impactful real-world challenges. I design, build and evaluate novel and practical mobile systems, especially **sensing systems**. I have developed **soft electronics and fabric sensing** system for continuous joint monitoring and 1-D touch input. I am recently investigating cyber-learning and technological assistance (e.g., **Mixed Reality**, AR, VR) for **teaching human motion tasks**, which includes reliable sensing of human body configuration, actuation for feedback-based guidance, algorithms for communicating motion and computational techniques for evaluating motion quality.
 
+<!-- **I am actively seeking for a research intern position for summer 2021. Please ** -->
+
 Recent News
 ======
 * [05/2020] Submitted one paper to IMWUT(UbiComp) 2020.
