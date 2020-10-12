@@ -88,8 +88,8 @@
     
 
     @include breakpoint($large) {
-      padding: 0 px;
-      border: 0 px solid $border-color;
+      padding: 5 px;
+      border: 1 px solid $border-color;
     }
   }
 }
@@ -113,8 +113,8 @@
   margin: 0;
 
   @include breakpoint($large) {
-    margin-top: 0 px;
-    margin-bottom: 0 px;
+    margin-top: 10 px;
+    margin-bottom: 10 px;
   }
 }
 .sidebar .author__name {
