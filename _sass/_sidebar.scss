@@ -83,13 +83,13 @@
   }
 
   img {
-    // max-width: 175px;
-    max-width: 600px;
-    border-radius: 0%;
+    max-width: 600px;   // original: max-width: 175px;
+    border-radius: 0%;  // original: border-radius: 0%; 
+    
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+      padding: 0 px;
+      border: 0 px solid $border-color;
     }
   }
 }
