@@ -20,7 +20,7 @@ My current research spans a range of different topics in Mobile Computing, Machi
 
 Recent News
 ======
-* [10/2020] Our ASL Teach paper was accepted by IMWUT(UbiComp2021). A great collaboration with researchers from cognitive science and education department in Dartmouth and sign language experts from Gallaudet University. This is our first work on teaching human motion without coaches. Check out our [papers]() for more details!
+* [10/2020] Our Teaching American Sign Language paper was accepted by IMWUT(UbiComp2021). A great collaboration with researchers from cognitive science and education department in Dartmouth and sign language experts from Gallaudet University. This is our first work on teaching human motion at population scale without coaches. Check out our [papers]() for more details!
 * [03/2020] Gave a demo and [talk](https://www.youtube.com/watch?v=lHfvueWdjJQ&t=6s) for PolarTag paper on **[HotMobile 2020](http://www.hotmobile.org/2020/)**. Thanks for everyone's attention and vote! We won the <span style="color:red"> **Best Demo Award** </span>!
 * [02/2020] Received the ACM HotMobile 2020 Student Travel Award. See you at Austin!
 * [12/2019] One paper got accepted by **[HotMobile 2020](http://www.hotmobile.org/2020/)**.
