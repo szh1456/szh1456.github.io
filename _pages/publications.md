@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 <!-- <img align="left" width="200" height="200" src="http://qijiashao.github.io/images/Threadsense.png"></p> -->
+<b>Teaching American Sign Language in Mixed Reality</b> <br>
+ <b>Qijia Shao</b>, Amy Sniffen, Julien Blanchet, Megan E. Hillis, Xinyu Shi, Themistoklis K. Haris, Jason Liu, Jason Lamberton, Melissa Malzkuhn, Lorna C. Quandt, James Mahoney, David J. M. Kraemer, Xia Zhou, Devin Balkcom  <br>
+<i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. Vol. 4, No. 4, Article 158, 2020 </i> (<b>UbiComp 2021</b>)<br>
+<i>[[PDF]]()
+
 
 <b>ThreadSense: Locating Touch on an Extremely Thin Interactive Thread</b> <br>
  Pin-Sung Ku, <b>Qijia Shao</b>, Te-Yen Wu, Jun Gong, Ziyan Zhu, Xia Zhou, Xing-Dong Yang <br>
@@ -23,7 +28,7 @@ author_profile: true
 
 <b>Reconstructing Human Joint Motion with Computational Fabrics</b> <br>
  Ruibo Liu, <b>Qijia Shao</b>, Siqi Wang, Christina Ru, Devin Balkcom, Xia Zhou<br>
-<i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. 3, 1, Article 19</i> (<b>UbiComp 2019</b>)<br>
+<i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. Vol. 3, No. 1, Article 19, 2019</i> (<b>UbiComp 2019</b>)<br>
 <i>[[PDF]](https://dl.acm.org/doi/10.1145/3314406) [[Featured in NSF "4 Awesome Discoveries You Probably Didn’t Hear About This Week"]](https://www.youtube.com/watch?v=Pv7OZZiP88Y&feature=youtu.be&t=37)</i>
 
 
