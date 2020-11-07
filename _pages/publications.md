@@ -8,7 +8,8 @@ author_profile: true
 <b>Teaching American Sign Language in Mixed Reality</b> <br>
  <b>Qijia Shao</b>, Amy Sniffen, Julien Blanchet, Megan E. Hillis, Xinyu Shi, Themistoklis K. Haris, Jason Liu, Jason Lamberton, Melissa Malzkuhn, Lorna C. Quandt, James Mahoney, David J. M. Kraemer, Xia Zhou, Devin Balkcom  <br>
 <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. Vol. 4, No. 4, Article 152, 2020 </i> (<b>UbiComp 2021</b>)<br>
-<i>[[PDF]](https://doi.org/10.1145/3432211)
+<i>[[PDF]](http://qijiashao.github.io/files/publications/UbiComp-Teaching American Sign Language in Mixed Reality.pdf) 
+<!-- (https://doi.org/10.1145/3432211) -->
 
 
 <b>ThreadSense: Locating Touch on an Extremely Thin Interactive Thread</b> <br>
