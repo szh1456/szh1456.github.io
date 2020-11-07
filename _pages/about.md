@@ -20,7 +20,7 @@ My current research spans a range of different topics in Mobile Computing, Machi
 
 Recent News
 ======
-* [10/2020] Our paper **"Teaching American Sign Language in Mixed Reality"** was accepted by IMWUT(UbiComp2021). A great collaboration with researchers from cognitive science and education department at Dartmouth and sign language experts from Gallaudet University. This is our first work on teaching human motion at population scale without coaches. Check out our [paper](https://doi.org/10.1145/3432211) for more details!
+* [10/2020] Our paper **"Teaching American Sign Language in Mixed Reality"** was accepted by IMWUT(UbiComp2021). A great collaboration with researchers from cognitive science and education department at Dartmouth and sign language experts from Gallaudet University. This is our first work on teaching human motion at population scale without coaches. Check out our [paper](http://qijiashao.github.io/files/publications/UbiComp-Teaching American Sign Language in Mixed Reality.pdf) for more details!
 * [03/2020] I gave a demo and [talk](https://www.youtube.com/watch?v=lHfvueWdjJQ&t=6s) for our PolarTag paper **"PolarTag: Invisible Data with Light Polarization"** on **[HotMobile 2020](http://www.hotmobile.org/2020/)**. Thanks for everyone's attention and vote! We won the <span style="color:red"> **Best Demo Award** </span>!
 * [02/2020] Received the ACM HotMobile 2020 Student Travel Award. See you at Austin!
 * [12/2019] One paper got accepted by **[HotMobile 2020](http://www.hotmobile.org/2020/)**.
