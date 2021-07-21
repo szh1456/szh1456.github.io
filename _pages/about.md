@@ -23,13 +23,15 @@ I am recently investigating cyber-learning and technological assistance (e.g., *
 
 Recent News
 ======
+* [07/2020] Our COVID-motivated paper **"FaceSense: Sensing Face Touch with an Ear-worn System"** is accepted with minor revision by IMWUT(UbiComp2021). It's more than one-year-long effort paper collaborating with 4 universities. Cheers for the team's hard work during the pandemic!  Please check our paper  for more details (comeing out soon). 
+* [06/2020] Start to worked as a research intern at Signify (Philips Lighting) focusing on deep learning and sensor data fusion!
 * [11/2020] Gave a guest lecture on next-generation mobile  platform -- computational fabrics in CS 69/169 at Dartmouth.
 * [10/2020] Our paper **"Teaching American Sign Language in Mixed Reality"** was accepted by IMWUT(UbiComp2021). A great collaboration with researchers from cognitive science and education department at Dartmouth and sign language experts from Gallaudet University. This is our first work on teaching human motion at population scale without coaches. Check out our [paper](http://qijiashao.github.io/files/publications/UbiComp-Teaching American Sign Language in Mixed Reality.pdf) for more details!
 * [03/2020] I gave a demo and [talk](https://www.youtube.com/watch?v=lHfvueWdjJQ&t=6s) for our PolarTag paper **"PolarTag: Invisible Data with Light Polarization"** on **[HotMobile 2020](http://www.hotmobile.org/2020/)**. Thanks for everyone's attention and vote! We won the <span style="color:red"> **Best Demo Award** </span>!
 * [02/2020] Received the ACM HotMobile 2020 Student Travel Award. See you at Austin!
-* [12/2019] One paper got accepted by **[HotMobile 2020](http://www.hotmobile.org/2020/)**.
+<!-- * [12/2019] One paper got accepted by **[HotMobile 2020](http://www.hotmobile.org/2020/)**.
 * [12/2019] One paper got accepted by **[CHI 2020](https://chi2020.acm.org/)**.
-* [09/2019] I presented our fabric paper **"Reconstructing Human Joint Motion with Computational Fabrics"** on **[UbiComp 2019](http://ubicomp.org/ubicomp2019/)** in London.
+* [09/2019] I presented our fabric paper **"Reconstructing Human Joint Motion with Computational Fabrics"** on **[UbiComp 2019](http://ubicomp.org/ubicomp2019/)** in London. -->
 
 
 
