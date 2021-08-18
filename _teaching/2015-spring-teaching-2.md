@@ -1,20 +1,11 @@
-<!-- ---
-title: "Teaching experience 2"
+---
+title: "COSC 60 Computer Networks"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2015-spring-teaching-2
+venue: "Dartmouth College, CS Department"
+date: 2020-02-15
+# location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-====== -->
+Held office hours, graded and wrote solutions for assignments and projects. Lead the project discussion as a shepherd. 

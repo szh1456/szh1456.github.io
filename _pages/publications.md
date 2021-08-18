@@ -7,10 +7,10 @@ author_profile: true
 <!-- <img align="left" width="200" height="200" src="http://qijiashao.github.io/images/Threadsense.png"></p> -->
 
 <b>FaceSense: Sensing Face Touch with an Ear-worn System</b> <br>
- Vimal Kakaraparthi*, <b>Qijia Shao*</b>, Charles J. Carver,  Tien Pham, Nam Bui, Tam Vu, VP Nguyen, Xia Zhou  <br>
+ Vimal Kakaraparthi*, <b>Qijia Shao*</b>, Charles J. Carver,  Tien Pham, Nam Bui, VP Nguyen, Xia Zhou, Tam Vu  <br>
 <i>*Co-primary, listed alphabetically<br>
-<i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. Vol. 5, No. 3, Article X, 2021 </i> (<b>UbiComp 2021</b>)<br>
-<i>[[PDF]]()
+<i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. Vol. 5, No. 3, Article 110, 2021 </i> (<b>UbiComp 2021</b>)<br>
+<i>[[PDF]](https://doi.org/10.1145/3478129)
 
 <b>Teaching American Sign Language in Mixed Reality</b> <br>
  <b>Qijia Shao</b>, Amy Sniffen, Julien Blanchet, Megan E. Hillis, Xinyu Shi, Themistoklis K. Haris, Jason Liu, Jason Lamberton, Melissa Malzkuhn, Lorna C. Quandt, James Mahoney, David J. M. Kraemer, Xia Zhou, Devin Balkcom  <br>
