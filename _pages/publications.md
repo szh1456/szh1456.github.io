@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 <!-- <img align="left" width="200" height="200" src="http://qijiashao.github.io/images/Threadsense.png"></p> -->
-<b>* indicates co-primary, listed alphabetically</b><br>
+<b>* co-primary authors, listed alphabetically</b><br>
 
 <b>Sunflower: Sensing Underwater Robots From the Air</b> <br>
  Charles J. Carver*, <b>Qijia Shao*</b>, Samuel Lensgraf, Amy Sniffen, Maxine Perroni-Scharf, Hunter Gallant, Alberto Quattrini Li, Xia Zhou  <br>
