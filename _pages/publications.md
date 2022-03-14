@@ -9,7 +9,7 @@ author_profile: true
 
 <b>Sunflower: Sensing Underwater Robots From the Air</b> <br>
  Charles J. Carver*, <b>Qijia Shao*</b>, Samuel Lensgraf, Amy Sniffen, Maxine Perroni-Scharf, Hunter Gallant, Alberto Quattrini Li, Xia Zhou  <br>
-<i> Proceedings of the 19th Annual International Conference on Mobile Systems, Applications, and Services. June 2022  </i> (<b>MobiSys 2022</b>)<br>
+<i> Proceedings of the 20th Annual International Conference on Mobile Systems, Applications, and Services. June 2022  </i> (<b>MobiSys 2022</b>)<br>
 <i>[[PDF]]()
 
 <b>FaceSense: Sensing Face Touch with an Ear-worn System</b> <br>
