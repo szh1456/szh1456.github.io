@@ -7,7 +7,7 @@ author_profile: true
 ---
 <b>* Co-primary authors</b><br>
 
-<img src="http://qijiashao.github.io/images/Threadsense.png" align="left" width="200" height="300"/> <b>Sunflower: Locating Underwater Robots From the Air</b><br>
+<img src="http://qijiashao.github.io/images/publications/sunflower.jpeg" align="left" width="200" height="300"/> <b>Sunflower: Locating Underwater Robots From the Air</b><br>
 <b>Qijia Shao\*</b>,  Charles J. Carver*, Samuel Lensgraf, Amy Sniffen, Maxine Perroni-Scharf, Hunter Gallant, Alberto Quattrini Li, Xia Zhou<br>
 <i>Proceedings of the 20th Annual International Conference on Mobile Systems, Applications, and Services. June 2022  </i> (<b>MobiSys 2022</b>)<br>
 <i>[[PDF]](https://dl.acm.org/doi/abs/10.1145/3498361.3539773) [[Video]](https://www.youtube.com/watch?v=ofpqm2G2s_U)
