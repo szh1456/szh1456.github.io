@@ -35,7 +35,7 @@ Pin-Sung Ku, <b>Qijia Shao</b>, Te-Yen Wu, Jun Gong, Ziyan Zhu, Xia Zhou, Xing-D
 <i>The ACM CHI Conference on Human Factors in Computing Systems</i> (<b>CHI 2020</b>)<br>
 <i>[[PDF]](https://dl.acm.org/doi/abs/10.1145/3313831.3376779) [[Video]](https://www.youtube.com/watch?v=iiSBCE1yCCs)
 <br clear="left"/>
-<!-- <br/> -->
+<font size="2"> </font> <br/>
 
 <img src="http://qijiashao.github.io/images/publications/polarTag_white.png" align="left" width="250" height="300"/> 
 <b>PolarTag: Invisible Data with Light Polarization</b> <br>
