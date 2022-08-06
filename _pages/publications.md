@@ -13,6 +13,7 @@ author_profile: true
 <i>Proceedings of the 20th Annual International Conference on Mobile Systems, Applications, and Services. June 2022  </i> (<b>MobiSys 2022</b>)<br>
 <i>[[PDF]](https://dl.acm.org/doi/abs/10.1145/3498361.3539773) [[Video]](https://www.youtube.com/watch?v=ofpqm2G2s_U)
 <br clear="left"/>
+<br/>
 
 <img src="http://qijiashao.github.io/images/publications/faceSense_white.png" align="left" width="250" height="300"/> 
 <b>FaceSense: Sensing Face Touch with an Ear-worn System</b> <br>
@@ -34,6 +35,7 @@ Pin-Sung Ku, <b>Qijia Shao</b>, Te-Yen Wu, Jun Gong, Ziyan Zhu, Xia Zhou, Xing-D
 <i>The ACM CHI Conference on Human Factors in Computing Systems</i> (<b>CHI 2020</b>)<br>
 <i>[[PDF]](https://dl.acm.org/doi/abs/10.1145/3313831.3376779) [[Video]](https://www.youtube.com/watch?v=iiSBCE1yCCs)
 <br clear="left"/>
+<br/><br/>
 
 <img src="http://qijiashao.github.io/images/publications/polarTag_white.png" align="left" width="250" height="300"/> 
 <b>PolarTag: Invisible Data with Light Polarization</b> <br>
@@ -47,7 +49,7 @@ Pin-Sung Ku, <b>Qijia Shao</b>, Te-Yen Wu, Jun Gong, Ziyan Zhu, Xia Zhou, Xing-D
 <b>Reconstructing Human Joint Motion with Computational Fabrics</b> <br>
 Ruibo Liu, <b>Qijia Shao</b>, Siqi Wang, Christina Ru, Devin Balkcom, Xia Zhou<br>
 <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. Vol. 3, No. 1, Article 19, 2019</i> (<b>UbiComp 2019</b>)<br>
-<i>[[PDF]](https://dl.acm.org/doi/10.1145/3314406) [[Featured in NSF "4 Awesome Discoveries You Probably Didn’t Hear About This Week"]](https://www.youtube.com/watch?v=Pv7OZZiP88Y&feature=youtu.be&t=37)</i>
+<i>[[PDF]](https://dl.acm.org/doi/10.1145/3314406) [[Featured in NSF "4 Awesome Discoveries This Week"]](https://www.youtube.com/watch?v=Pv7OZZiP88Y&feature=youtu.be&t=37)</i>
 <br clear="left"/>
 
 
