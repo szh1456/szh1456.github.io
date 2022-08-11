@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* Welcome, my name is Qijia Shao,  currently a fourth-year Ph.D. student in the [Computer Science Department](https://web.cs.dartmouth.edu/) at [<span style="color:Green">**Dartmouth College**</span>](https://home.dartmouth.edu/). I am a member of the [DartNets](http://dartnets.cs.dartmouth.edu/) (Dartmouth Networking and Ubiquitous Systems) Lab and [RLab](https://rlab.cs.dartmouth.edu/home/) (Dartmouth Reality and Robotics Lab), under the supervision of [**Professor Xia Zhou**](https://www.cs.dartmouth.edu/~xia/) and [**Professor Devin Balkcom**](https://rlab.cs.dartmouth.edu/devin/).
+* Welcome, my name is Qijia Shao,  currently a fourth-year Ph.D. student in the [Computer Science Department](https://web.cs.dartmouth.edu/) at <span style="color:Green">**Dartmouth College**</span>. I am a member of the [DartNets](http://dartnets.cs.dartmouth.edu/) (Dartmouth Networking and Ubiquitous Systems) Lab and [RLab](https://rlab.cs.dartmouth.edu/home/) (Dartmouth Reality and Robotics Lab), under the supervision of [**Professor Xia Zhou**](https://www.cs.columbia.edu/~xia/) and [**Professor Devin Balkcom**](https://rlab.cs.dartmouth.edu/devin/).
 
 * I received my bachelor's degree with the highest honor from Yingcai Honors College at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) in 2018. In 2016, I was an exchange student at EECS department of [National Chiao Tung University](https://www.nctu.edu.tw/en).  I spent my senior year as a research assistant at [Missouri S&T](https://www.mst.edu/), advised by [Professor Y. Rosa Zheng](https://www.lehigh.edu/~yrz218/).
 
@@ -24,8 +24,8 @@ My research focuses on novel and practical mobile systems leveraging the latest 
 Recent News
 ======
 * [05/2022] Started my research internship at Snap Research, building a very cool interacvtive system. Stay tuned!
-* [05/2022] I graduated from Dartmouth with a master degree and is moving to Columbia with my advisor. Will miss here Hanover!
-* [03/2022] Our paper **"Sunflower: Sensing Underwater Robots From the Air"** has been conditionally accepted to [MobiSys 2022](https://www.sigmobile.org/mobisys/2022/). The first system ever achieves wirelessly localizing underwater robots from the air withut additional infrastructure. Laser light is our secret for cross-medium sensing. Check out our demo videos [here!](https://www.youtube.com/watch?v=ofpqm2G2s_U)
+<!-- * [05/2022] I graduated from Dartmouth with a master degree and is moving to Columbia with my advisor. Will miss here Hanover! -->
+* [03/2022] Our paper **"Sunflower: Sensing Underwater Robots From the Air"** has been conditionally accepted to [MobiSys 2022](https://www.sigmobile.org/mobisys/2022/). The first system ever achieves wirelessly localizing underwater robots from the air withut additional infrastructure. Laser light is our secret for cross-medium sensing. Please check out our demo video [here!](https://www.youtube.com/watch?v=ofpqm2G2s_U)
 * [09/2021] We are presenting both **ASLTeach** and **FaceSense** in [UbiComp 2021](https://www.ubicomp.org/ubicomp2021/)!
 * [07/2021] Our COVID-motivated paper **"FaceSense: Sensing Face Touch with an Ear-worn System"** is accepted with minor revision by IMWUT (UbiComp2021). It's more than one-year-long effort collaborating with 4 universities. Cheers for the team's hard work during the pandemic!  Please check out our [paper](https://dl.acm.org/doi/pdf/10.1145/3478129) for more details. 
 * [06/2021] Started my research internship at Signify (Philips Lighting), focusing on deep learning and sensor data fusion!
