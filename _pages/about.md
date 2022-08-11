@@ -25,7 +25,7 @@ Recent News
 ======
 * [05/2022] Started my research internship at Snap Research, building a very cool interacvtive system. Stay tuned!
 <!-- * [05/2022] I graduated from Dartmouth with a master degree and is moving to Columbia with my advisor. Will miss here Hanover! -->
-* [03/2022] Our paper **"Sunflower: Sensing Underwater Robots From the Air"** has been conditionally accepted to [MobiSys 2022](https://www.sigmobile.org/mobisys/2022/). The first system ever achieves wirelessly localizing underwater robots from the air withut additional infrastructure. Laser light is our secret for cross-medium sensing. Please check out our demo video [here!](https://www.youtube.com/watch?v=ofpqm2G2s_U)
+* [03/2022] Our paper **"Sunflower: Locating Underwater Robots From the Air"** has been conditionally accepted to [MobiSys 2022](https://www.sigmobile.org/mobisys/2022/). The first system ever achieves wirelessly localizing underwater robots from the air withut additional infrastructure. Laser light is our secret for cross-medium sensing. Please check out our demo video [here!](https://www.youtube.com/watch?v=ofpqm2G2s_U)
 * [09/2021] We are presenting both **ASLTeach** and **FaceSense** in [UbiComp 2021](https://www.ubicomp.org/ubicomp2021/)!
 * [07/2021] Our COVID-motivated paper **"FaceSense: Sensing Face Touch with an Ear-worn System"** is accepted with minor revision by IMWUT (UbiComp2021). It's more than one-year-long effort collaborating with 4 universities. Cheers for the team's hard work during the pandemic!  Please check out our [paper](https://dl.acm.org/doi/pdf/10.1145/3478129) for more details. 
 * [06/2021] Started my research internship at Signify (Philips Lighting), focusing on deep learning and sensor data fusion!
