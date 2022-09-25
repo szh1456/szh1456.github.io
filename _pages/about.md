@@ -10,7 +10,7 @@ redirect_from:
 
 * I am Zihang Song, currently a third-year Ph.D. student at [School of Computer
 Science and Electronic Engineering](https://www.surrey.ac.uk/department-electrical-electronic-engineering), [University of
-Surrey](https://www.surrey.ac.uk/). I am a member of the [the Institute for Communications Systems (ICS), home of the 5G/6G Innovation Centre (5G/6GIC)](https://www.surrey.ac.uk/institute-communication-systems), under the supervision of [**Professor Yue Gao**]([https://www.cs.columbia.edu/~xia/](https://www.surrey.ac.uk/people/yue-gao)) and [**Professor Rahim Tafazolli**](https://www.surrey.ac.uk/people/rahim-tafazolli-freng). I received my bachelor's and master's degree from School of Physics at Beihang University.  
+Surrey](https://www.surrey.ac.uk/). I am a member of the [the Institute for Communications Systems (ICS), home of the 5G/6G Innovation Centre (5G/6GIC)](https://www.surrey.ac.uk/institute-communication-systems), under the supervision of [**Professor Yue Gao**](https://www.surrey.ac.uk/people/yue-gao) and [**Professor Rahim Tafazolli**](https://www.surrey.ac.uk/people/rahim-tafazolli-freng). I received my bachelor's and master's degree from School of Physics at Beihang University.  
 
 
 *I am a research assistant of the EPSRC project  [GHz bandwidth sensing (GBSense)](http://www.gbsense.net/).
