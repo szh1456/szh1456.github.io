@@ -91,7 +91,7 @@ analytics:
 author:
   name             : "Zihang Song"
   avatar           : "zihangsong_2.png"
-  bio              : "Ph.D. candidate @Communication Systems"
+  bio              : "Ph.D. candidate @Institute of Communication Systems, University of Surrey"
   location         : "Guildford, United Kingdom"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -111,7 +111,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "qijia-ryan-shao-7b0b21157/"
+  # linkedin         : "qijia-ryan-shao-7b0b21157/"
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
