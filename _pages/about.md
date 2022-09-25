@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-* Welcome, my name is Qijia Shao,  currently a fifth-year Ph.D. student in the [Computer Science Department](https://www.cs.columbia.edu/) at [**Columbia University**](https://www.columbia.edu/). I am a member of the [Mobile X Lab](https://mobilex.cs.columbia.edu/), under the supervision of [**Professor Xia Zhou**](https://www.cs.columbia.edu/~xia/). 
+* I am Zihang Song, currently a third-year Ph.D. student at [School of Computer
+Science and Electronic Engineering](https://www.surrey.ac.uk/department-electrical-electronic-engineering), [University of
+Surrey](https://www.surrey.ac.uk/). I am a member of the [the Institute for Communications Systems (ICS), home of the 5G/6G Innovation Centre (5G/6GIC)]([https://mobilex.cs.columbia.edu/](https://www.surrey.ac.uk/institute-communication-systems)), under the supervision of [**Professor Yue Gao**]([https://www.cs.columbia.edu/~xia/](https://www.surrey.ac.uk/people/yue-gao)) and [**Professor Rahim Tafazolli**](https://www.surrey.ac.uk/people/rahim-tafazolli-freng). I received my bachelor's and master's degree from School of Physics at Beihang University.  
 
 
-* I received my master's degree from [<span style="color:Green">**Dartmouth College**</span>](https://home.dartmouth.edu/), and my bachelor's degree with the highest honor from Yingcai Honors College at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). I was an exchange student in my junior year at EECS department of [National Chiao Tung University](https://www.nctu.edu.tw/en).  I spent my senior year as a research assistant at [Missouri S&T](https://www.mst.edu/), advised by [Professor Y. Rosa Zheng](https://www.lehigh.edu/~yrz218/).
+*I am a research assistant of the EPSRC project  [GHz bandwidth sensing (GBSense)](http://www.gbsense.net/).
 
 <!-- * During my undergraduate study, I focused more on optimization and statistical signal processing in wireless communication. I am lucky to have been working at National Key Laboratory of Science and Technology on Communication, advised by [Professor Jun Wang](https://scholar.google.com.hk/citations?user=bOK-froAAAAJ&hl=zh-CN) and at Center for Real-time Adaptive Signal Processing, advised by [Professor Y. Rosa Zheng](https://www.lehigh.edu/~yrz218/) -->
                                                                                                                                                                                                                     
