@@ -6,7 +6,6 @@ author_profile: true
 
 ---
 
-# <img src="http://qijiashao.github.io/images/publications/sunflower_white.png" align="left" width="250" height="300"/> 
 <b>Approaching Sub-Nyquist Boundary: Optimized Compressed Spectrum Sensing Based on Multicoset Sampler for Multiband Signal</b><br>
 <b>Zihang Song</b>, Jian Yang, Han Zhang, Yue Gao<br>
 <i>IEEE Transactions on Signal Processing, vol. 70, pp. 4225-4238 </i>
