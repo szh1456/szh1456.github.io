@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Zihang Song's Homepage"
 title_separator          : "-"
 name                     : &name "Zihang Song"
-description              : &description "Ph.D. student in Computer Science"
+description              : &description "Ph.D. candidate in Electronic Engineering"
 url                      : https://szh1456.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "szh1456/szh1456.github.io"
@@ -90,8 +90,8 @@ analytics:
 # Site Author
 author:
   name             : "Zihang Song"
-  avatar           : "zihangsong_2.jpg"
-  bio              : "CS Ph.D. student @Mobile Computing, HCI"
+  avatar           : "image/zihangsong_2.jpg"
+  bio              : "Ph.D. candidate @Communication Systems"
   location         : "Guildford, United Kingdom"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
