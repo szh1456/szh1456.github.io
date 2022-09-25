@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Qijia Shao (邵琪佳)"
+title: "Zihang Song (宋子杭)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Click to review my CV here](http://qijiashao.github.io/files/QijiaShao_CV.pdf) (Last update: 9/2021)
+[Click to review my CV here](http://szh1456.github.io/files/ZihangSong_CV.pdf) (Last update: 8/2022)
 
