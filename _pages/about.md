@@ -17,12 +17,11 @@ Surrey](https://www.surrey.ac.uk/). I am a member of the [the Institute for Comm
 
 * My research interest lies in the intersection of learning-driven cognitive communication and compressed signal processing. I am especially interested in solving the sparse inverse problems from compressive samples of wideband radio signal and practical sensing matrices design by optimization and learning methods.
 
-* I am passionate about solving exciting and impactful real-world challenges. My research is mainly about turning everyday objects in to sensors,  **for sensing physical and physiological signals around humans and robots.**
-
+* I am passionate about hardward design of state-of-the-art communication systems. I have developed **the first known prototype of the uniform periodic sampling architechture** [link](http://www.gbsense.net/nd.jsp?id=18&fromMid=393&fromColId=105), which achieves sparse spectrum sensing over 2GHz bandwidth by sampling at an average rate of 400MHz.
 
 <!-- * During my undergraduate study, I focused more on optimization and statistical signal processing in wireless communication. I am lucky to have been working at National Key Laboratory of Science and Technology on Communication, advised by [Professor Jun Wang](https://scholar.google.com.hk/citations?user=bOK-froAAAAJ&hl=zh-CN) and at Center for Real-time Adaptive Signal Processing, advised by [Professor Y. Rosa Zheng](https://www.lehigh.edu/~yrz218/) -->
                                                                                                                                                                                                                     
-I am passionate about hardward design of state-of-the-art communication systems. I have developed **the first known prototype of the uniform periodic sampling architechture** [link](http://www.gbsense.net/nd.jsp?id=18&fromMid=393&fromColId=105), which achieves sparse spectrum sensing over 2GHz bandwidth by sampling at an average rate of 400MHz.
+
 
 I play with various modalities of signals from both software and hardware sides. I have designed and prototyped different practical systems  leveraging the latest technical advances (e.g., **Multimodal Deep Sensing, Mixed Reality/AR/VR, Humanoid Robot**) for  human motion teaching (soft flex/pressure sensors and camera @UbiComp'21),  human activity/behavior monitoring (computational fabrics @UbiComp'19; EMG and impedance sensors @UbiComp'21), cross-medium localization (laser light @MobiSys'22), and interactions (conductive threads @CHI'20). Feel free to contact me if interested in similar topics!
 
