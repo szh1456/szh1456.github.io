@@ -13,7 +13,12 @@ Science and Electronic Engineering](https://www.surrey.ac.uk/department-electric
 Surrey](https://www.surrey.ac.uk/). I am a member of the [the Institute for Communications Systems (ICS), home of the 5G/6G Innovation Centre (5G/6GIC)](https://www.surrey.ac.uk/institute-communication-systems), under the supervision of [**Professor Yue Gao**](https://www.surrey.ac.uk/people/yue-gao) and [**Professor Rahim Tafazolli**](https://www.surrey.ac.uk/people/rahim-tafazolli-freng). I received my bachelor's and master's degree from School of Physics at Beihang University.  
 
 
-*I am a research assistant of the EPSRC project  [GHz bandwidth sensing (GBSense)](http://www.gbsense.net/).
+* I am a research assistant of the EPSRC project  [GHz bandwidth sensing (GBSense)](http://www.gbsense.net/).
+
+* My research interest lies in the intersection of learning-driven cognitive communication and compressed signal processing. I am especially interested in solving the sparse inverse problems from compressive samples of wideband radio signal and practical sensing matrices design by optimization and learning methods.
+
+* I am passionate about solving exciting and impactful real-world challenges. My research is mainly about turning everyday objects in to sensors,  **for sensing physical and physiological signals around humans and robots.**
+
 
 <!-- * During my undergraduate study, I focused more on optimization and statistical signal processing in wireless communication. I am lucky to have been working at National Key Laboratory of Science and Technology on Communication, advised by [Professor Jun Wang](https://scholar.google.com.hk/citations?user=bOK-froAAAAJ&hl=zh-CN) and at Center for Real-time Adaptive Signal Processing, advised by [Professor Y. Rosa Zheng](https://www.lehigh.edu/~yrz218/) -->
                                                                                                                                                                                                                     
