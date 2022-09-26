@@ -2,7 +2,7 @@
 title: "EEE1028 Laboratory Design & Professional Studies "
 collection: teaching
 type: "Undergraduate/Graduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/teaching-1
 venue: "School of Electronic Engineering and Computer Science, University of Surrey"
 date: 2020
 # location: "City, Country"
