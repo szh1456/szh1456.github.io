@@ -8,4 +8,4 @@ date: 2020
 # location: "City, Country"
 ---
 
-Held office hours, graded and wrote solutions for assignments and exams, and explained the exams.
+Held in-lab teaching, graded and wrote solutions for assignments and exams, and explained the exams.
