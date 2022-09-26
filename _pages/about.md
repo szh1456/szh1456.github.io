@@ -30,7 +30,7 @@ Recent News
 * [03/2022] We proudly put forward [**GBSense Board 1.0**](http://www.gbsense.net/nd.jsp?id=18&fromMid=393&fromColId=105), the first system ever achieves wideband spectrum sensing at a sub-Nyquist rate that implements nonuniform periodic sapling architeture. GBSense Board 1.0 employs eight parallel ADCs with 50MSPS rate to sample analog signal within 2GHz bandwidth. The sampling sequence is processed in real time by a high-performace FPGA device and deliverd to host CPU, where the embedded compressed sensing algorithms reconstruct the wideband spectrum and display it via a well-designed user interface. 
 
 
-
+* test
 
 
 
