@@ -10,41 +10,27 @@ redirect_from:
 
 * I am Zihang Song, currently a third-year Ph.D. student at [School of Computer
 Science and Electronic Engineering](https://www.surrey.ac.uk/department-electrical-electronic-engineering), [University of
-Surrey](https://www.surrey.ac.uk/). I am a member of the [the Institute for Communications Systems (ICS), home of the 5G/6G Innovation Centre (5G/6GIC)](https://www.surrey.ac.uk/institute-communication-systems), under the supervision of [**Professor Yue Gao**](https://www.surrey.ac.uk/people/yue-gao) and [**Professor Rahim Tafazolli**](https://www.surrey.ac.uk/people/rahim-tafazolli-freng). I received my bachelor's and master's degree from School of Physics at Beihang University.  
+Surrey](https://www.surrey.ac.uk/). I am a member of the [the Institute for Communications Systems (ICS), home of the 5G/6G Innovation Centre (5G/6GIC)](https://www.surrey.ac.uk/institute-communication-systems), under the supervision of [Professor Yue Gao](https://www.surrey.ac.uk/people/yue-gao) and [Professor Rahim Tafazolli](https://www.surrey.ac.uk/people/rahim-tafazolli-freng). I am a research assistant of the EPSRC project  [GHz bandwidth sensing (GBSense)](http://www.gbsense.net/).
 
+* My research interest lies in the intersection of **learning-driven cognitive communication** and **compressed signal processing**. I am especially interested in solving the sparse inverse problems from compressive samples of wideband radio signal and practical sensing matrices design by optimization and learning methods.
 
-* I am a research assistant of the EPSRC project  [GHz bandwidth sensing (GBSense)](http://www.gbsense.net/).
+* I am passionate about **hardward design of state-of-the-art communication systems**. I have developed **the first known prototype of the uniform periodic sampling architechture** [link](http://www.gbsense.net/nd.jsp?id=18&fromMid=393&fromColId=105), which achieves sparse spectrum sensing over 2GHz bandwidth by sampling at an average rate of 400MHz. I am also interested in development of software-defined tranceiver platforms.
 
-* My research interest lies in the intersection of learning-driven cognitive communication and compressed signal processing. I am especially interested in solving the sparse inverse problems from compressive samples of wideband radio signal and practical sensing matrices design by optimization and learning methods.
+* I received my bachelor's and master's degree from School of Physics at Beihang University.  
 
-* I am passionate about hardward design of state-of-the-art communication systems. I have developed **the first known prototype of the uniform periodic sampling architechture** [link](http://www.gbsense.net/nd.jsp?id=18&fromMid=393&fromColId=105), which achieves sparse spectrum sensing over 2GHz bandwidth by sampling at an average rate of 400MHz.
-
-<!-- * During my undergraduate study, I focused more on optimization and statistical signal processing in wireless communication. I am lucky to have been working at National Key Laboratory of Science and Technology on Communication, advised by [Professor Jun Wang](https://scholar.google.com.hk/citations?user=bOK-froAAAAJ&hl=zh-CN) and at Center for Real-time Adaptive Signal Processing, advised by [Professor Y. Rosa Zheng](https://www.lehigh.edu/~yrz218/) -->
-                                                                                                                                                                                                                    
-
-
-I play with various modalities of signals from both software and hardware sides. I have designed and prototyped different practical systems  leveraging the latest technical advances (e.g., **Multimodal Deep Sensing, Mixed Reality/AR/VR, Humanoid Robot**) for  human motion teaching (soft flex/pressure sensors and camera @UbiComp'21),  human activity/behavior monitoring (computational fabrics @UbiComp'19; EMG and impedance sensors @UbiComp'21), cross-medium localization (laser light @MobiSys'22), and interactions (conductive threads @CHI'20). Feel free to contact me if interested in similar topics!
-
-
-<!-- **I am actively seeking for a research intern position for summer 2021. Please ** -->
 
 Recent News
 ======
-* [06/2022] I graduated from Dartmouth with a master's degree (surprisingly) and is moving to Columbia with Xia. Will miss here Hanover!
-* [05/2022] Started my research internship at Snap Research, working on reducing the motion-to-photon latency for enabling various cool interacvtive systems. Stay tuned!
-* [03/2022] Our paper **"Sunflower: Locating Underwater Robots From the Air"** has been conditionally accepted to [MobiSys 2022](https://www.sigmobile.org/mobisys/2022/). The first system ever achieves wirelessly localizing underwater robots from the air withut additional infrastructure. Laser light is our secret for cross-medium sensing. Please check out our demo video [here!](https://www.youtube.com/watch?v=ofpqm2G2s_U)
-* [09/2021] We are presenting both **ASLTeach** and **FaceSense** in [UbiComp 2021](https://www.ubicomp.org/ubicomp2021/)!
-* [07/2021] Our COVID-motivated paper **"FaceSense: Sensing Face Touch with an Ear-worn System"** is accepted with minor revision by IMWUT (UbiComp2021). It's more than one-year-long effort collaborating with 4 universities. Cheers for the team's hard work during the pandemic!  Please check out our [paper](https://dl.acm.org/doi/pdf/10.1145/3478129) for more details. 
-* [06/2021] Started my research internship at Signify (Philips Lighting), focusing on deep learning and sensor data fusion!
-* [11/2020] Gave a guest lecture on next-generation mobile  platform -- computational fabrics in CS 69/169 at Dartmouth.
-* [10/2020] Our paper **"Teaching American Sign Language in Mixed Reality"** was accepted by [IMWUT]((https://dl.acm.org/doi/10.1145/3432211)) (UbiComp2021). A great collaboration with researchers from cognitive science and education department at Dartmouth and sign language experts from Gallaudet University. This is our first work on teaching human motion at population scale without coaches. Check out the [presentation](https://www.youtube.com/watch?v=695M7eGxZJ4) for more details!
-<!-- * [03/2020] I gave a demo and [talk](https://www.youtube.com/watch?v=lHfvueWdjJQ&t=6s) for our PolarTag paper **"PolarTag: Invisible Data with Light Polarization"** on [HotMobile 2020](http://www.hotmobile.org/2020/). Thanks for everyone's attention and vote! We won the <span style="color:red"> **Best Demo Award** </span>! -->
+* [08/2022] Our paper [**"Approaching Sub-Nyquist Boundary: Optimized Compressed Spectrum Sensing Based on Multicoset Sampler for Multiband Signal"**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9855237) has been accepted to **IEEE Transactions on Signal Processing**. The paper discussed upon a practical basis the gap of average sampling rates between theorital bound and compressed spectrum sensing practice. An coordinated optimization framework is proposed to significantly improve the spectral support recovery performace.
+
+* [06/2022] Our team at the University of Surrey is running a [**"Deep Sub-Nyquist Modulation Recognition Challenge” (GBSense Challenge 2022)**](www.gbsense.net) with a first prize winner who could get USD 10,000! The challenge is sponsored by the UK Engineering and Physical Sciences Research Council (EPSRC), China Institute of Communications (CIC), and Fudan University. Stay tuned!
+
+* [04/2022] The [**GBSense Challenge 2021**](http://www.gbsense.net/challenge2021/) Award Ceremony helded by our team at University of Surrey was successfully held online! At the ceremony, IET and IEEE Fellow Prof. Mark Plumbley gave a talk on the general benefits of data challenges and reproducible research to a research community. He also announced together with Prof. Yue Gao the four winner teams of GBSense Challenge 2021 and their outstanding works on accurate Sub-Nyquist spectrum sensing. Congrats!
+
+* [03/2022] We proudly put forward [**GBSense Board 1.0**](http://www.gbsense.net/nd.jsp?id=18&fromMid=393&fromColId=105), the first system ever achieves wideband spectrum sensing at a sub-Nyquist rate that implements nonuniform periodic sapling architeture. GBSense Board 1.0 employs eight parallel ADCs with 50MSPS rate to sample analog signal within 2GHz bandwidth. The sampling sequence is processed in real time by a high-performace FPGA device and deliverd to host CPU, where the embedded compressed sensing algorithms reconstruct the wideband spectrum and display it via a well-designed user interface. 
 
 
-<!-- * [02/2020] Received the ACM HotMobile 2020 Student Travel Award. See you at Austin! -->
-<!-- * [12/2019] One paper got accepted by **[HotMobile 2020](http://www.hotmobile.org/2020/)**.
-* [12/2019] One paper got accepted by **[CHI 2020](https://chi2020.acm.org/)**.
-* [09/2019] I presented our fabric paper **"Reconstructing Human Joint Motion with Computational Fabrics"** on **[UbiComp 2019](http://ubicomp.org/ubicomp2019/)** in London. -->
+
 
 
 
