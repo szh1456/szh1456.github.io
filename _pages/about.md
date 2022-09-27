@@ -33,6 +33,6 @@ Recent News
 
 Visitors
 =======
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=250&t=n&d=gkUgx_rJxyGnlm9h49vUyEn8lS4ZIy-1rPBbiEUZCKY&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=200&t=n&d=O0uT8s5h-6VhOk5ASIXQJeLrUcjRoUXC7oFh9wUQDOA&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 
 
