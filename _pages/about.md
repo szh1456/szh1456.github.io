@@ -18,9 +18,6 @@ Surrey](https://www.surrey.ac.uk/). I am a member of the [the Institute for Comm
 
 * I received my bachelor's and master's degree from School of Physics at Beihang University.  
 
-* test
-
-
 Recent News
 ======
 * [08/2022] Our paper [**"Approaching Sub-Nyquist Boundary: Optimized Compressed Spectrum Sensing Based on Multicoset Sampler for Multiband Signal"**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9855237) has been accepted to **IEEE Transactions on Signal Processing**. The paper discussed upon a practical basis the gap of average sampling rates between theorital bound and compressed spectrum sensing practice. An coordinated optimization framework is proposed to significantly improve the spectral support recovery performace.
