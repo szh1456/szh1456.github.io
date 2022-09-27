@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate/Graduate course"
 permalink: /teaching/teaching-1
 venue: "School of Electronic Engineering and Computer Science, University of Surrey"
-date: 2020
+date: 2020-9-15
 # location: "City, Country"
 ---
 
