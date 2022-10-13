@@ -10,11 +10,11 @@ redirect_from:
 
 * I am Zihang Song, currently a third-year Ph.D. student at [School of Computer
 Science and Electronic Engineering](https://www.surrey.ac.uk/department-electrical-electronic-engineering), [University of
-Surrey](https://www.surrey.ac.uk/). I am a member of the [the Institute for Communications Systems (ICS), home of the 5G/6G Innovation Centre (5G/6GIC)](https://www.surrey.ac.uk/institute-communication-systems), under the supervision of [Professor Yue Gao](https://www.surrey.ac.uk/people/yue-gao) and [Professor Rahim Tafazolli](https://www.surrey.ac.uk/people/rahim-tafazolli-freng). I am a research assistant of the EPSRC project  [GHz bandwidth sensing (GBSense)](http://www.gbsense.net/).
+Surrey](https://www.surrey.ac.uk/). I am a member of [the Institute for Communications Systems (ICS), home of the 5G/6G Innovation Centre (5G/6GIC)](https://www.surrey.ac.uk/institute-communication-systems), under the supervision of [Professor Yue Gao](https://www.surrey.ac.uk/people/yue-gao) and [Professor Rahim Tafazolli](https://www.surrey.ac.uk/people/rahim-tafazolli-freng). I am a research assistant of the EPSRC project  [GHz bandwidth sensing (GBSense)](http://www.gbsense.net/).
 
 * My research interest lies in the intersection of **learning-driven cognitive communication** and **compressed signal processing**. I am especially interested in solving the sparse inverse problems from compressive samples of wideband radio signal and practical sensing matrices design by optimization and learning methods.
 
-* I am passionate about **hardward design of state-of-the-art communication systems**. I have developed **the first known prototype of the uniform periodic sampling architechture** [link](http://www.gbsense.net/nd.jsp?id=18&fromMid=393&fromColId=105), which achieves sparse spectrum sensing over 2GHz bandwidth by sampling at an average rate of 400MHz. I am also interested in development of software-defined tranceiver platforms.
+* I am passionate about **hardward design of state-of-the-art communication systems**. I have developed **the first known prototype of the uniform periodic sampling architecture** [link](http://www.gbsense.net/nd.jsp?id=18&fromMid=393&fromColId=105), which achieves sparse spectrum sensing over 2GHz bandwidth by sampling at an average rate of 400MHz. I am also interested in development of software-defined transceiver platforms.
 
 * I received my bachelor's and master's degree from School of Physics at Beihang University.  
 
